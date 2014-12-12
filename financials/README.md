@@ -1,0 +1,1 @@
+As soon as the legal entity for Medium has been founded, we will regularly publish financial statements here. This will include invoices and fees paid, money received, bank account balances and so on.
