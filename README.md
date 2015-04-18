@@ -35,7 +35,8 @@ Mail-to: `hello (at) open-medicine-initiative.org`
 
 Registered at local court   
 Berlin Charlottenburg    
-ID: VR34011B 
+ID: VR34011B
+ 
 ---
 
 Eingetragen beim Amtsgericht   
