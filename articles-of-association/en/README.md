@@ -1,9 +1,3 @@
-**Articles of Association**
-
-*Open Medicine Initiative e.V*
-
-*Version from 26-03-2015*
-
 # Preamble
 
 As human beings, our personal health is an invaluable asset which we
@@ -63,9 +57,9 @@ informed application of medical knowledge.
 
   * [(I) General](#toc-4.1)
 
-  * [(II) Erwerb der Mitgliedschaft](#toc-4.2)
+  * [(II) Becoming a member](#toc-4.2)
 
-  * [(III) Loss of membership](#toc-2.3)
+  * [(III) Loss of membership](#toc-4.3)
 
   * [(IV) Membership fees](#toc-4.4)
 
@@ -357,7 +351,7 @@ informed application of medical knowledge.
 2.  The board may decide to convene an extraordinary meeting if this is
     required to protect the association’s interests. Extraordinary
     meetings should also be convened if members have requested this in
-    accordance with ## § 5 Rights and obligations of members.
+    accordance with [§ 5 Rights and obligations of members](#toc-5).
 
 3.  The meeting of members is convened by the board with a notice period
     of four weeks. Members are notified by letter or email of the items
@@ -439,7 +433,7 @@ informed application of medical knowledge.
     Mitglieder des Vorstands kein Stimmrecht.
 
 3.  Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des
-    ## § 26 BGB bei Rechtsgeschäften von bis zu 1500 €. Bei
+    § 26 BGB bei Rechtsgeschäften von bis zu 1500 €. Bei
     Rechtsgeschäften von mehr als 1500 €, Einstellungen und Entlassungen
     von Angestellten, gerichtlichen Vertretungen und Anzeigen sowie bei
     Aufnahme von Krediten ist der Verein von zwei Vorstandsmitgliedern
@@ -462,7 +456,7 @@ informed application of medical knowledge.
 4.  Der Vorstand kann durch Beschluss für gewisse Geschäfte,
     insbesondere zur Wahrnehmung der wirtschaftlichen,
     verwaltungsmäßigen und personellen Angelegenheiten des Vereins,
-    besondere Vertreter im Sinne des ## § 30 BGB bestellen. Die dem
+    besondere Vertreter im Sinne des § 30 BGB bestellen. Die dem
     besonderen Vertreter übertragenen Geschäftskreise sind in dem
     Bestellungsbeschluss festzulegen. Jede Bestellung ist allen
     Mitgliedern unverzüglich anzuzeigen. Besondere Verteter können auf
@@ -509,7 +503,7 @@ informed application of medical knowledge.
     in the form of a regulation on contributions.
 
 4.  ​6. Documentation of financial flows is carried our in accordance
-    with the regulations from ## § 10 Transparency (I) Documentation.
+    with the regulations from [§ 10 Transparency (I) Documentation](#toc-10.1).
 
 5.  A financial report is drawn up at the end of each reporting period.
     The report must present the association’s financial situation
