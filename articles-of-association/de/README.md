@@ -326,21 +326,21 @@ Transparenz und eine besser informierte Anwendung der Medizin.
     Angelegenheiten des Vereins zu beschließen. Sie hat insbesondere
     folgende Aufgaben:
 
--   Beschlussfassung über Abstimmungsgegenstände (Tagesordnung),
+  -   Beschlussfassung über Abstimmungsgegenstände (Tagesordnung),
 
--   Die Entlastung des Vorstandes sowie Wahl der einzelnen
+  -   Die Entlastung des Vorstandes sowie Wahl der einzelnen
     Vorstandsmitglieder,
 
--   Den Jahresbericht vom Vorstand zu beraten und zu beschließen,
+  -   Den Jahresbericht vom Vorstand zu beraten und zu beschließen,
 
--   Über Satzungsänderungen sowie die Auflösung des Vereins zu
+  -   Über Satzungsänderungen sowie die Auflösung des Vereins zu
     beschließen,
 
--   Über Änderungen der ihr obliegenden Vereinsordnungen zu beschließen,
+  -   Über Änderungen der ihr obliegenden Vereinsordnungen zu beschließen,
 
--   Festsetzung der Mitgliedsbeiträge,
+  -   Festsetzung der Mitgliedsbeiträge,
 
--   Die Ernennung von Ehrenmitgliedern.
+  -   Die Ernennung von Ehrenmitgliedern.
 
 <a name="toc-7.2"></a>
 ### (II) Einberufung 

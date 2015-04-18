@@ -279,7 +279,7 @@ informed application of medical knowledge.
 4.  All members have the right to make applications to the meeting of
     members.
 
-5.  ​5. A request to convene a meeting must be complied with if it is
+5.  ​A request to convene a meeting must be complied with if it is
     **supported by all members of the board** or at least **twenty
     percent of all members**. Members signal their support in writing,
     by email or using an appropriate online procedure.
@@ -327,21 +327,21 @@ informed application of medical knowledge.
     matters concerning the association. In particular, the meeting has
     the following tasks:
 
--   Voting and subsequent resolution on items of the agenda;
+  -   Voting and subsequent resolution on items of the agenda;
 
--   Retiring and electing individual board members;
+  -   Retiring and electing individual board members;
 
--   Discussing and adopting the annual report issued by the board;
+  -   Discussing and adopting the annual report issued by the board;
 
--   Deciding on amendments to the articles of association and on the
+  -   Deciding on amendments to the articles of association and on the
     dissolution of the association;
 
--   Deciding on amendments to the association’s policies to which the
+  -   Deciding on amendments to the association’s policies to which the
     meeting is bound;
 
--   Deciding on the membership fees;
+  -   Deciding on the membership fees;
 
--   Appointing honorary members.
+  -   Appointing honorary members.
 
 <a name="toc-7.2"></a>
 ### (II) Convening the meeting of members
@@ -502,7 +502,7 @@ informed application of medical knowledge.
 3.  Contributions and fees will be determined by the Meeting of Members
     in the form of a regulation on contributions.
 
-4.  ​6. Documentation of financial flows is carried our in accordance
+4.  ​Documentation of financial flows is carried our in accordance
     with the regulations from [§ 10 Transparency (I) Documentation](#toc-10.1).
 
 5.  A financial report is drawn up at the end of each reporting period.
@@ -511,7 +511,6 @@ informed application of medical knowledge.
 
 <a name="toc-10"></a>
 ## § 10 Transparency 
-    -----------------
 
 <a name="toc-10.1"></a>
 ### (I) Documentation
