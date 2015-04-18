@@ -13,11 +13,35 @@ We are also trying to make group decisions of decentralized groups possible with
 [Loomio](http://boingboing.net/2014/03/19/loomio-democratic-decision-ma.html) is a great, open source tool for lean management of group decision processes. Groups of people can initiate proposals, discuss them and finally vote on it. Members can easily create sub-groups for more detailed discussions and everybody can participate in any issue of her/his interest. Every member of the organization will be a member of the [open medicine group](https://www.loomio.org/g/EedHvuAr/open-medicine-e-v).
 
 
-### Contribute!
-You can support our movement by becoming a member of our organization, by helping out with your expertise and volunteer work, by giving financial support or with donations of useful goods and services (like hosting, licenses, free workshops, coaching etc.).
-You can always show us your love by liking and sharing [our Facebook page](https://www.facebook.com/open.medicine.initiative), starring our repositories and telling your friends about us.
+### Contribute
+You can support our movement by becoming a member of our organization - write us an email to `membership (at) open-medicine-initiative (dot) org`.
 
 Check out our Open Medicine Online Groups site and become a member of one of our groups. Join the group of [Open Medicine Supporters](http://www.open-medicine.org/groups/crowd) to stay tuned about upcoming events and engage with the community of people who agree that empowered patients and open medicine is a cornerstone in health care.
 
+You can support us with your expertise and volunteer work or by giving financial support. Donations of useful goods and services (like hosting, licenses, free workshops, coaching etc.) are also very welcome.
 
-### 
+You can always show us your love by liking and sharing [our Facebook page](https://www.facebook.com/open.medicine.initiative), staring our repositories and telling your friends about us.
+
+### About
+
+Open Medicine Initiative e.V.
+
+Oranienstrasse 183  
+c/o Im Oranienhof Aufgang C, 3. OG  
+10999 Berlin  
+Germany  
+
+Mail-to: `hello (at) open-medicine-initiative.org`
+
+Registered at local court   
+Berlin Charlottenburg    
+ID: VR34011B 
+---
+
+Eingetragen beim Amtsgericht   
+Berlin Charlottenburg   
+Registernummer: VR34011B
+
+Vorstand i.S.d. § 26 BGB:  
+Benjamin Diedrichsen, Vorsitzender
+
