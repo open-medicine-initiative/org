@@ -17,7 +17,7 @@ We are also trying to make group decisions of decentralized groups possible with
 You can support our movement by becoming a member of our organization, by helping out with your expertise and volunteer work, by giving financial support or with donations of useful goods and services (like hosting, licenses, free workshops, coaching etc.).
 You can always show us your love by liking and sharing [our Facebook page](https://www.facebook.com/open.medicine.initiative), starring our repositories and telling your friends about us.
 
-Check out our Open Medicine Online Groups site and become a member of one of our groups. Join the group of [Open Medicine Supporters](www.open-medicine.org/groups/crowd) to stay tuned about upcoming events and engage with the community of people who agree that empowered patients and open medicine is a cornerstone in health care.
+Check out our Open Medicine Online Groups site and become a member of one of our groups. Join the group of [Open Medicine Supporters](http://www.open-medicine.org/groups/crowd) to stay tuned about upcoming events and engage with the community of people who agree that empowered patients and open medicine is a cornerstone in health care.
 
 
 ### 

@@ -358,7 +358,7 @@ informed application of medical knowledge.
     to be voted on (agenda), the date of the meeting and details on who
     will be chairing the meeting and taking the minutes.
 
-4.  Extraordinary meetings generally take place online. An additional
+4.  Extraordinary meetings generally take place online (**Virtual Meeting of Members**). An additional
     application to hold a physical meeting can be submitted, likewise
     online, up to one week before the scheduled date of the meeting. If
     this application is supported by a simple majority, a physical
