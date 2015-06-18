@@ -1,6 +1,6 @@
 # Open Medicine Initiative e.V.
 
-Welcome to one of the public facing sites of the Open Medicine Initiative (O.M.I)! O.M.I. was founded to support patient empowerment and ideas of  non-profit, open health care information services. One of our main efforts is the coordination and development of [OPENMEDiAID](http://www.openmediaid.org) - an online platform built on open medical data and patient's medical experiences.
+Welcome to one of the public facing sites of the Open Medicine Initiative e.V! The initiative was founded to support patient empowerment and ideas of non-profit, open health care information services. One of our main efforts is the coordination and development of [OPENMEDiAID](http://www.openmediaid.org) - an online platform built on open medical data and patient's medical experiences.
 
 Read the [preamble](articles-of-association/en/#preamble) of our articles of assocation to get an idea of our core motivation and values. 
 
@@ -8,7 +8,7 @@ Read the [preamble](articles-of-association/en/#preamble) of our articles of ass
 Transparency is a key aspect for building communities and a core principle of our organization. We have built transparency right into our [articles of association](articles-of-association/en/#toc-10).  We have committed ourselves to publish any relevant document related to our activities: protocols of [meetings](meetings) and resolutions, [financial statements](financials), annual reports.
 
 ### Democratic Decision Making
-We are also trying to make group decisions of decentralized groups possible with the help of online tools. This is why we have the option of [virtual meetings of members](articles-of-association/en/#toc-7.2).
+We are also trying to make group decisions of decentralized groups possible with the help of online tools. This is why we have the option to conduct [virtual meetings of members](articles-of-association/en/#toc-7.2).
 
 [Loomio](http://boingboing.net/2014/03/19/loomio-democratic-decision-ma.html) is a great, open source tool for lean management of group decision processes. Groups of people can initiate proposals, discuss them and finally vote on it. Members can easily create sub-groups for more detailed discussions and everybody can participate in any issue of her/his interest. Every member of the organization will be a member of the [open medicine group](https://www.loomio.org/g/EedHvuAr/open-medicine-e-v).
 
@@ -22,6 +22,8 @@ You can support us with your expertise and volunteer work or by giving financial
 
 You can always show us your love by liking and sharing [our Facebook page](https://www.facebook.com/open.medicine.initiative), staring our repositories and telling your friends about us.
 
+Of course you can make a donation. `IBAN 46430609671175526500 BIC: GENODEM1GLS`
+
 ### About
 
 Open Medicine Initiative e.V.
@@ -33,7 +35,7 @@ Germany
 
 Mail-to: `hello (at) open-medicine-initiative.org`
 
-Registered at local court   
+Registered at Amtsgericht
 Berlin Charlottenburg    
 ID: VR34011B
  
@@ -45,4 +47,3 @@ Registernummer: VR34011B
 
 Vorstand i.S.d. § 26 BGB:  
 Benjamin Diedrichsen, Vorsitzender
-

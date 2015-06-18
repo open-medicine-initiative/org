@@ -428,16 +428,15 @@ informed application of medical knowledge.
 
 2.  The members of the board are appointed for a period of two years by
     the meeting of members. However, they remain in office until a new
-    board has been appointed. Die wiederholte Bestellung ist zulässig.
-    Bei der Wahl/Abberufung sowie der Entlastung des Vorstands haben die
-    Mitglieder des Vorstands kein Stimmrecht.
+    board has been appointed. Reelection is admissible.
+    Board members do not have a right to vote on resolutions concerning 
+the election/dismissal of board members or the ratification of board members' actions.
 
-3.  Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des
-    § 26 BGB bei Rechtsgeschäften von bis zu 1500 €. Bei
-    Rechtsgeschäften von mehr als 1500 €, Einstellungen und Entlassungen
-    von Angestellten, gerichtlichen Vertretungen und Anzeigen sowie bei
-    Aufnahme von Krediten ist der Verein von zwei Vorstandsmitgliedern
-    zu vertreten sofern der Vorstand mehrere Mitglieder umfasst.
+3.  Each member of the board is authorised to represent the company within the 
+meaning of section 26 of the German Commercial Code (BGB) in legal transactions of up to €1500. 
+For legal transactions of more than €1500, the hiring and dismissal of employees, 
+legal representation and juridical announcements or taking out loans, the association must be 
+represented by two board members, provided the board consists of more than one member.
 
 <a name="toc-8.2"></a>
 ### (II) Tasks, powers, adoption of resolutions
@@ -453,19 +452,16 @@ informed application of medical knowledge.
 
 3.  The board accepts and processes membership applications.
 
-4.  Der Vorstand kann durch Beschluss für gewisse Geschäfte,
-    insbesondere zur Wahrnehmung der wirtschaftlichen,
-    verwaltungsmäßigen und personellen Angelegenheiten des Vereins,
-    besondere Vertreter im Sinne des § 30 BGB bestellen. Die dem
-    besonderen Vertreter übertragenen Geschäftskreise sind in dem
-    Bestellungsbeschluss festzulegen. Jede Bestellung ist allen
-    Mitgliedern unverzüglich anzuzeigen. Besondere Verteter können auf
-    Beschluss der Mitgliederversammlung mit sofortiger Wirkung
-    abbestellt werden.
+4.  For certain transactions, particularly those concerning the association's 
+economic, administrative or personnel-related affairs, the board may resolve 
+to appoint special representatives within the meaning of section 30 of the 
+German Civil Code. The areas of business to be assigned to the special 
+representative must be specified in the resolution concerning the representative's
+appointment. Any new appointment must be reported to all members of the board without delay. 
+Special representatives may be dismissed with immediate effect by resolution of the meeting of members. 
 
-5.  Vorstandssitzungen werden von einem Vorstandsmitglied unter
-    Mitteilung der Tagesordnung einberufen und geleitet. Der Vorstand
-    ist stets beschlussfähig.
+5.  Board meetings are convened and chaired by a board member. 
+Board meetings constitute a quorum at all times.
 
 <a name="toc-8.3"></a>
 ### (III) Annual Report
