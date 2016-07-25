@@ -22,7 +22,10 @@ You can support us with your expertise and volunteer work or by giving financial
 
 You can always show us your love by liking and sharing [our Facebook page](https://www.facebook.com/open.medicine.initiative), staring our repositories and telling your friends about us.
 
-Of course you can make a donation. `IBAN 46430609671175526500 BIC: GENODEM1GLS`
+Of course you can make a donation:
+
+ 
+`Account owner=Open Medicine Initiative eV IBAN=DE46 4306 0967 1175 5265 00 BIC=GENODEM1GLS`
 
 ### About
 
